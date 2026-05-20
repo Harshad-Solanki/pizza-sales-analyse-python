@@ -28,14 +28,3 @@ Matplotlib
 Seaborn
 Plotly
 Jupyter Notebook
-
-#📈 Skills Demonstrated
-Data Cleaning & Transformation
-Exploratory Data Analysis (EDA)
-Time Series Analysis
-Data Visualization
-GroupBy Operations
-Aggregation & Business Insights
-Interactive Dashboard-style Visualization
-
-This project helped me improve my practical skills in real-world sales data analysis and strengthened my understanding of data analytics workflows using Python.
